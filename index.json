@@ -1,12 +1,12 @@
 {
   "mods": [
     {
-      "id": "customsounds",
+      "id": "chickengunsounds",
       "title": "Chicken Gun Sounds",
       "author": "Uno 228",
       "description": "Chicken Gun Sounds pack,apply for death and jump",
-      "preview": "https://cdn-icons-png.flaticon.com/512/95/95021.png",
-      "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/customsounds.lua",
+      "preview": "https://files.catbox.moe/bd946c.png",
+      "luaUrl": "https://raw.githubusercontent.com/chaloappsarchive-afk/FluzerDesh2Workshop/refs/heads/main/mods/customsounds.lua",
       "sizeKb": 1
     }
   ]
